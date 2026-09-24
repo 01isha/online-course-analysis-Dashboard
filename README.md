@@ -4,7 +4,7 @@ An interactive Power BI data analytics dashboard designed to analyze online cour
 The EdTech Startup Analytics Dashboard is an interactive Power BI report designed to help an EdTech company understand its online course offerings and learner engagement.
 The dashboard analyzes course performance across different categories, sub-categories, languages, skills, instructors, ratings, subtitles, and course durations to identify patterns and provide insights that can support decisions around content creation, instructor selection, and course strategy.
 
-Tech Stack
+## Tech Stack
 The dashboard was built using the following tools and technologies:
 • Power BI Desktop – Main platform used to create the interactive dashboard and data visualizations.
 • Power Query – Used for data cleaning, transformation, formatting, and preparation.
@@ -12,13 +12,13 @@ The dashboard was built using the following tools and technologies:
 • Data Modeling – Used to structure the dataset and create the necessary relationships and calculations for analysis.
 • Power BI Visualizations – Used to create interactive charts, slicers, cards, tables, and other visuals for exploring course data.
 
-Data Source
+## Data Source
 The project uses Kaggle Dataset
 
-Business Problem
+## Business Problem
 An EdTech startup offering recorded online courses needs to understand its existing course portfolio and learner engagement in order to make better decisions about course categories, skills, languages, instructors, and content strategy.
 With a large number of courses across different categories and formats, it can be difficult to identify which areas attract the most learners and which characteristics are associated with higher engagement.
-Key questions such as:
+# Key questions such as:
 - Which course categories and sub-categories are most popular?
 - Which categories receive the highest average views?
 - Which skills are most commonly taught?
@@ -29,7 +29,7 @@ Key questions such as:
 - Which categories should receive more attention?
 are difficult to answer efficiently using raw data alone.
 
-Goal of the Dashboard
+# Goal of the Dashboard
 The goal of this dashboard is to provide an interactive analytical tool that:
 - Analyzes the distribution of courses across categories and sub-categories.
 - Identifies categories with higher learner engagement.
@@ -61,5 +61,5 @@ Analyzes course duration and its relationship with views to understand how cours
 - Interactive Filters & Slicers
 Interactive slicers allow users to filter the dashboard by relevant categories and course attributes, making it easier to explore specific segments of the dataset.
 
-Tools Used
+## Tools Used
 Power BI · Power Query · DAX · Data Cleaning · Data Transformation · Data Visualization · Data Analysis
