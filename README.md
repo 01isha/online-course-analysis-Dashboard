@@ -1,4 +1,4 @@
-#EdTech Startup Data Analysis
+# EdTech Startup Data Analysis
 An interactive Power BI data analytics dashboard designed to analyze online course data for an EdTech startup, focusing on course categories, learner engagement, skills, languages, instructors, subtitles, and course duration.
 
 The EdTech Startup Analytics Dashboard is an interactive Power BI report designed to help an EdTech company understand its online course offerings and learner engagement.
